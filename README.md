@@ -1,2 +1,2 @@
-# Game  on Python
-# 
+# Game on Python
+# walk around the city
